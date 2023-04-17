@@ -1,0 +1,2 @@
+hr = Hacker Rank
+kg = Ko***s Gr****ia
