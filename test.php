@@ -1,5 +1,5 @@
 <?php
-    $data = 50;
-    $data *= 1.2;
+    $str_number_rpl = "";
+    $str_number_rpl .= "*";
 
-echo $data;
+echo $str_number_rpl;
