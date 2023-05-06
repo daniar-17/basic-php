@@ -1,5 +1,6 @@
 <?php
-    $str_number_rpl = "";
-    $str_number_rpl .= "*";
 
-echo $str_number_rpl;
+$string = 'April 15, 2003'; 
+$pattern = '/(\w+) (\d+), (\d+)/i'; 
+$replacement = '$3 ${1}1'; 
+echo preg_replace($pattern, $replacement, $string);

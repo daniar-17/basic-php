@@ -3,3 +3,5 @@ kg = Ko***s Gr****ia
 kk = Test Backend K**i
 nd = N**a **ta
 ma = Mit**ba*a Adi**rda*a
+ei = Ei**r In*o
+fwi = Fi**t W*p Inter**t*on*l
