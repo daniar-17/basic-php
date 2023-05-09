@@ -5,3 +5,7 @@ nd = N**a **ta
 ma = Mit**ba*a Adi**rda*a
 ei = Ei**r In*o
 fwi = Fi**t W*p Inter**t*on*l
+
+
+Array Of Object 
+https://stackoverflow.com/questions/8612190/array-of-php-objects
