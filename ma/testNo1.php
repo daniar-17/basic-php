@@ -7,7 +7,7 @@
             }else if($j == ($i + 2)){
                 echo "*";
             }else{
-                echo $j."";
+                echo $j;
             }
         }
         echo "\n";
